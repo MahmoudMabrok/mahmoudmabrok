@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/MahmoudMabrok/mahmoudmabrok.svg)](http://hits.dwyl.com/MahmoudMabrok/mahmoudmabrok)
-
 
 - 🔭 I’m currently working as Andorid Developer at [Inovaeg LLC](https://github.com/inovaeg)
 - 💬 Ask me about (Android, Kotlin, Java)
@@ -15,7 +13,7 @@
 - [Wazkar- Java](https://github.com/hamza94max/Wazkar)
 - [Mo3taSummary - Python](https://github.com/MahmoudMabrok/Mo3taSummary)
 
-## Mediume Contributer  
+## Medium Contributer  
 - [Github_Profile_APP - Kotlin](https://github.com/NJACKWinterOfCode/Github_Profile_APP)
 
 ## Basic Contributer  
