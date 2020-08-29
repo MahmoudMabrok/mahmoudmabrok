@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Andorid Developer at [Inovaeg LLC](https://github.com/inovaeg)
+- 🔭 I’m currently working as an Android Developer at [Inovaeg LLC](https://github.com/inovaeg)
 - 💬 Ask me about (Android, Kotlin, Java)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-mabrouk-fouad/)
 
@@ -8,8 +8,8 @@
 [![MahmoudMabrok's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMabrok)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Contibutions 
-## Auther/Maintainer
+# Contributions 
+## Author/Maintainer
 - [QuranyApp - Koltin/Java](https://github.com/MahmoudMabrok/QuranyApp)
 - [Quizzy_app - Java](https://github.com/MahmoudMabrok/Quizzy_app)
 - [HandyCustomeViews - Koltin](https://github.com/MahmoudMabrok/HandyCustomeViews)
@@ -17,9 +17,9 @@
 - [Wazkar- Java](https://github.com/hamza94max/Wazkar)
 - [Mo3taSummary - Python](https://github.com/MahmoudMabrok/Mo3taSummary)
 
-## Medium Contributer  
+## Medium Contributor  
 - [Github_Profile_APP - Kotlin](https://github.com/NJACKWinterOfCode/Github_Profile_APP)
 
-## Basic Contributer  
+## Basic Contributor  
 - [ibrahimyilmaz/kiel](https://github.com/ibrahimyilmaz/kiel)
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
