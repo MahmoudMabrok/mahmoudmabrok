@@ -4,6 +4,10 @@
 - 💬 Ask me about (Android, Kotlin, Java)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-mabrouk-fouad/)
 
+# Stats 
+[![MahmoudMabrok's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMabrok)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Contibutions 
 ## Auther/Maintainer
 - [QuranyApp - Koltin/Java](https://github.com/MahmoudMabrok/QuranyApp)
