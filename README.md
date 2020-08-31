@@ -23,3 +23,4 @@
 ## Basic Contributer  
 - [ibrahimyilmaz/kiel](https://github.com/ibrahimyilmaz/kiel)
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
+- [AbdElraoufSabri/FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
