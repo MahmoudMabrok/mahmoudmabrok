@@ -26,3 +26,4 @@
 - [ibrahimyilmaz/kiel](https://github.com/ibrahimyilmaz/kiel)
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
 - [AbdElraoufSabri/FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
+- [ahmedsamir9/DesignPatternsInkotlin](https://github.com/ahmedsamir9/DesignPatternsInkotlin-)
