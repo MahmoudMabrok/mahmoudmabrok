@@ -8,6 +8,9 @@
 [![MahmoudMabrok's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMabrok)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudMabrok)](https://github.com/MahmoudMabrok/github-profile-trophy)
+
+
 # Contibutions 
 ## Auther/Maintainer
 - [QuranyApp - Koltin/Java](https://github.com/MahmoudMabrok/QuranyApp)
