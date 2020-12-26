@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as Andorid Developer at [Inovaeg LLC](https://github.com/inovaeg)
 - 💬 Ask me about (Android, Kotlin, Java)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-mabrouk-fouad/)
+- check my static [blog](https://mahmoudmabrok.github.io/mahmoudmabrokblog/)
 
 # Stats 
 [![MahmoudMabrok's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMabrok)](https://github.com/anuraghazra/github-readme-stats)
