@@ -26,6 +26,7 @@
 - [Github_Profile_APP - Kotlin](https://github.com/NJACKWinterOfCode/Github_Profile_APP)
 
 ## Basic Contributer  
+- [quran_android](https://github.com/quran/quran_android/graphs/contributors)
 - [airbnb/epoxy](https://github.com/airbnb/epoxy/graphs/contributors)
 - [Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
 - [ibrahimyilmaz/kiel](https://github.com/ibrahimyilmaz/kiel)
