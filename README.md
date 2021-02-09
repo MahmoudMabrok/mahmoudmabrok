@@ -28,6 +28,7 @@
 ## Basic Contributer  
 - [quran_android](https://github.com/quran/quran_android/graphs/contributors)
 - [airbnb/epoxy](https://github.com/airbnb/epoxy/graphs/contributors)
+- [android-template](https://github.com/AbdElraoufSabri/android-template/graphs/contributors)
 - [Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
 - [ibrahimyilmaz/kiel](https://github.com/ibrahimyilmaz/kiel)
 - [hbb20/CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject/graphs/contributors)
