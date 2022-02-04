@@ -44,6 +44,7 @@
 - [SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation/graphs/contributors)
 - [android-kotlin-todo-app](https://github.com/dleurs/android-kotlin-todo-app)
 - [Mentions-TextView - kotlin](https://github.com/noah20/Mentions-TextView)
+- [Compose-Curved-Scroll-library - kotlin](https://github.com/mohamedtamer0/Compose-Curved-Scroll-library)
 
 
 
