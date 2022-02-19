@@ -27,6 +27,7 @@
 ## Medium Contributer  
 - [Github_Profile_APP - Kotlin](https://github.com/NJACKWinterOfCode/Github_Profile_APP)
 - [eshkal - Javascript](https://github.com/MahmoudMabrok/eshkal)
+- [fihHuda](https://github.com/mariamrady92019/fihHuda)
 
 ## Basic Contributer  
 - [quran_android](https://github.com/quran/quran_android/graphs/contributors)
@@ -45,7 +46,7 @@
 - [android-kotlin-todo-app](https://github.com/dleurs/android-kotlin-todo-app)
 - [Mentions-TextView - kotlin](https://github.com/noah20/Mentions-TextView)
 - [Compose-Curved-Scroll-library - kotlin](https://github.com/mohamedtamer0/Compose-Curved-Scroll-library)
-
+- [CardSlider](https://github.com/IslamKhSh/CardSlider)
 
 
 
