@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudMabrok)](https://github.com/MahmoudMabrok/github-profile-trophy)
 
 
-# Contibutions 
+# Contributions 
 ## Auther/Maintainer
 - [QuranyApp - Koltin/Java](https://github.com/MahmoudMabrok/QuranyApp)
 - [Quizzy_app - Java](https://github.com/MahmoudMabrok/Quizzy_app)
