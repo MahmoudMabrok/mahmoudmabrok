@@ -23,6 +23,7 @@
 - [Wazkar- Java](https://github.com/hamza94max/Wazkar)
 - [Mo3taSummary - Python](https://github.com/MahmoudMabrok/Mo3taSummary)
 - [AutomationScripts](https://github.com/MahmoudMabrok/AutomationScripts)
+- [ProblemSolvingKit](https://github.com/MahmoudMabrok/ProblemSolvingKit)
 
 ## Medium Contributer  
 - [Github_Profile_APP - Kotlin](https://github.com/NJACKWinterOfCode/Github_Profile_APP)
